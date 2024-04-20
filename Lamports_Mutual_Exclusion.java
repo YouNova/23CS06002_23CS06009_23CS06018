@@ -161,6 +161,9 @@ class EventThread extends Thread {
             processReq[1] = Integer.valueOf(message.substring(index+1));
             index = find(queue, processReq);
             queue.add(index, processReq);
+            for (String[] peer : peers) {
+                sendMessage(peer[0], peer[1], "Reply");
+            }
         }
     }
 
