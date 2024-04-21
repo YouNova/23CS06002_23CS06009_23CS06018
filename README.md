@@ -10,33 +10,6 @@ For each user, enter the following information:
 
 1. **Process ID:** Enter the process ID for the current process. This should be a unique identifier.
    
-2. **Priority:** Enter the priority level for the process. This should be a unique numeric value.
-   
-3. **Peer 1 IP:** Enter the IP address of the first peer.
-   
-4. **Peer 1 ID:** Enter the ID of the first peer. This should be a unique identifier.
-   
-5. **Peer 2 IP:** Enter the IP address of the second peer.
-   
-6. **Peer 2 ID:** Enter the ID of the second peer. This should be a unique identifier.
-
-### Example Input
-
-
-plaintext
-Copy code
-# Readme
-
-## Instructions for Running the Program
-
-This program requires input from the user to set up processes and their priorities, as well as information about their peers. Follow the instructions below to input the required data for three users:
-
-### Input Parameters
-
-For each user, enter the following information:
-
-1. **Process ID:** Enter the process ID for the current process. This should be a unique identifier.
-   
 2. **Priority:** Enter the priority level for the process. This should be a numeric value.
    
 3. **Peer 1 IP:** Enter the IP address of the first peer.
