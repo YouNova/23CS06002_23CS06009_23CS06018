@@ -76,4 +76,4 @@ Enter peer2 ID: 5<br>
 
 ### Execution Timing
 
-After entering the details for all users, there will be a 3-second delay before all users execute the program simultaneously.
+After entering the details for all users, every user has to execute the program at the same time if not their is a 3 second delay allowed for user to execute (The delay can be increase).
