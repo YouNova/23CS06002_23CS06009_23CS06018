@@ -1,5 +1,16 @@
 # Lamports_Assignment
 
+## Project contributors
+
+
+- **Name:** Urmil Vora
+- **Roll No.:**  23CS06018
+- **Name:** Rajnish Maurya
+- **Roll No.:**  23CS06009
+- **Name:** Bhushan Shrirame
+- **Roll No.:**  23CS06002
+
+
 ## Instructions for Running the Program
 
 This program requires input from the user to set up processes and their priorities, as well as information about their peers. Follow the instructions below to input the required data for three users:
